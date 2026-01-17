@@ -43,12 +43,12 @@ categories and regions.
 
 ###  Automated Data Ingestion and Scheduling Pipeline 
 **Python, REST APIs, Amazon S3, Boto3, Automated Scheduling, ETL Pipelines, Logging**
-• Built a production-style Python pipeline to ingest external API data on an hourly schedule with schema validation
+- Built a production-style Python pipeline to ingest external API data on an hourly schedule with schema validation
 and fault tolerance.
-• Designed modular storage layers supporting both local file systems and cloud-based object storage (Amazon S3).
-• Implemented data retention and archival policies to manage hot, warm, and cold data storage.
-• Developed configurable scheduling using cron/APScheduler to support automated and backfill ingestion.
-• Added structured logging and basic observability for monitoring pipeline health and failures.
+- Designed modular storage layers supporting both local file systems and cloud-based object storage (Amazon S3).
+- Implemented data retention and archival policies to manage hot, warm, and cold data storage.
+- Developed configurable scheduling using cron/APScheduler to support automated and backfill ingestion.
+- Added structured logging and basic observability for monitoring pipeline health and failures.
 
 👉 Check out my pinned repositories for more details!
 
