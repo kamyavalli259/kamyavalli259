@@ -8,9 +8,12 @@
 
 ## 🔧 Technical Skills
 - **Languages:** Python, Java, JavaScript, SQL  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, MySQL, SQLite  
-- **Data & Analytics:** Pandas, Jupyter Notebook, Data Cleaning, EDA  
+- **Data Engineering & Big Data:** PySpark, Apache Spark, ETL Pipelines, Automated Data Ingestion, Scheduling
+(Cron, APScheduler) 
+- **Machine Learning & Statistics:** Scikit-Learn, XGBoost, Time Series Forecasting (ARIMA/SARIMAX), Statistical
+Modeling
+- **Cloud & Storage:** Amazon S3, Cloud Object Storage, Data Partitioning, Data Lifecycle Management
+- **MLOps & Reliability:** MLflow, Experiment Tracking, Logging, Monitoring, Fault-Tolerant Pipelines
 - **Tools:** Git, GitHub, VS Code, Google Colab  
 
 ---
@@ -23,18 +26,24 @@
 - Implemented user ratings and feedback stored in MongoDB
 - Designed RESTful APIs and dynamic UI using EJS templates
 
-### 📊 Predicting EV Sales in Top 10 GDP Countries
-**Python | Pandas | Data Analysis**
-- Analyzed EV sales data sourced from Kaggle
-- Cleaned and filtered data using Pandas
-- Predicted EV sales trends and validated results using precision and error rate
-- Used validated insights to forecast 2024 EV adoption
+### 📊 Digital Manufacturing Demand Forecasting
+**Python, PySpark, XGBoost, ARIMA, MLflow, Linear Programming**
+• Built an end-to-end demand forecasting and capacity optimization pipeline using PySpark, Python, and XGBoost,
+driving significant improvements in simulated on-time delivery and capacity utilization.
+• Designed scalable Spark ETL and feature pipelines for time-series demand forecasting across multiple product
+categories and regions.
+• Implemented optimization-based manufacturer allocation using linear programming to reduce capacity bottlenecks.
+• Conducted model experimentation and tracking using MLflow to compare statistical and ML-based forecasts.
+• Created synthetic datasets to enable reproducible, large-scale pipeline testing.
 
-### 🎬 StreamFlix Analytics
-**Python | Data Analysis**
-- Performed exploratory data analysis on streaming platform data
-- Extracted insights on content trends and user behavior
-- Focused on data preprocessing and analytical problem-solving
+###  Automated Data Ingestion and Scheduling Pipeline 
+**Python, REST APIs, Amazon S3, Boto3, Automated Scheduling, ETL Pipelines, Logging**
+• Built a production-style Python pipeline to ingest external API data on an hourly schedule with schema validation
+and fault tolerance.
+• Designed modular storage layers supporting both local file systems and cloud-based object storage (Amazon S3).
+• Implemented data retention and archival policies to manage hot, warm, and cold data storage.
+• Developed configurable scheduling using cron/APScheduler to support automated and backfill ingestion.
+• Added structured logging and basic observability for monitoring pipeline health and failures.
 
 👉 Check out my pinned repositories for more details!
 
