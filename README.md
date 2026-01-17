@@ -1,7 +1,7 @@
 # Hi, I'm Kamyavalli 👋
 
 🎓 **Computer Science Graduate (Aug 2025)**  
-💻 Aspiring **Software Engineer** with experience in **full-stack development, Python, and data analytics**  
+💻 Aspiring **Data Analyst/ Business Analyst** with experience in **full-stack development, Python, and data analytics**  
 🌱 Actively improving **Data Structures & Algorithms** and backend development skills
 
 ---
@@ -30,17 +30,14 @@ Modeling
 **Python, PySpark, XGBoost, ARIMA, MLflow, Linear Programming**
 - Built an end-to-end demand forecasting and capacity optimization pipeline using PySpark, Python, and XGBoost,
 driving significant improvements in simulated on-time delivery and capacity utilization.
-
 - Designed scalable Spark ETL and feature pipelines for time-series demand forecasting across multiple product
 categories and regions.
-
 - Implemented optimization-based manufacturer allocation using linear programming to reduce capacity bottlenecks.
 - Conducted model experimentation and tracking using MLflow to compare statistical and ML-based forecasts.
 - Created synthetic datasets to enable reproducible, large-scale pipeline testing.
 
 - Created synthetic datasets to enable reproducible, large-scale pipeline testing.
   
-
 ###  Automated Data Ingestion and Scheduling Pipeline 
 **Python, REST APIs, Amazon S3, Boto3, Automated Scheduling, ETL Pipelines, Logging**
 - Built a production-style Python pipeline to ingest external API data on an hourly schedule with schema validation
