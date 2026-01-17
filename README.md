@@ -21,7 +21,7 @@ Modeling
 ## ⭐ Featured Projects
 
 ### 🍲 Recipe Finder Application
-**Node.js | Express | MongoDB**
+**Node.js, Express, MongoDB**
 - Built a full-stack web application to search recipes by cuisine and food items
 - Implemented user ratings and feedback stored in MongoDB
 - Designed RESTful APIs and dynamic UI using EJS templates
@@ -30,10 +30,14 @@ Modeling
 **Python, PySpark, XGBoost, ARIMA, MLflow, Linear Programming**
 - Built an end-to-end demand forecasting and capacity optimization pipeline using PySpark, Python, and XGBoost,
 driving significant improvements in simulated on-time delivery and capacity utilization.
+
 - Designed scalable Spark ETL and feature pipelines for time-series demand forecasting across multiple product
 categories and regions.
-- Implemented optimization-based manufacturer allocation using linear programming to reduce capacity bottlenecks.  
+
+- Implemented optimization-based manufacturer allocation using linear programming to reduce capacity bottlenecks.
 - Conducted model experimentation and tracking using MLflow to compare statistical and ML-based forecasts.
+- Created synthetic datasets to enable reproducible, large-scale pipeline testing.
+
 - Created synthetic datasets to enable reproducible, large-scale pipeline testing.
   
 
